@@ -1,67 +1,20 @@
-# 👋 Hi, I'm Bhavya Sehgal
+<h1 align="center">Hi 👋, I'm Bhavya Sehgal</h1>
+<h3 align="center">A Beginner in Cybersecurity</h3>
 
-🔐 **Beginner in Cybersecurity**  
-📚 Currently learning cybersecurity fundamentals, networking, and system security  
-💻 Practicing through labs, projects, and hands-on exercises  
+- 🛡️ About Me **I am a beginner in cybersecurity with a strong interest in understanding how systems, networks, and data are protected from cyber threats. I am currently building my foundation in cybersecurity concepts and improving my technical skills through continuous learning and practice. I enjoy exploring security tools, learning ethical hacking basics, and understanding how vulnerabilities work in real-world scenarios.**
 
----
+- 🌱 I’m currently learning **Cybersecurity Fundamentals Networking (TCP/IP, OSI Model) Linux Ethical Hacking Vulnerability Awareness Security Best Practices**
 
-## 🛡️ About Me
+- 🧰 Tools & Technologies (Beginner) **Windows / Linux (Kali / Ubuntu) VirtualBox / VMware / Docker zaproxy, wireshark, burpsuite subfinder, assetfinder, theHarvester, WhateWeb. Nmap, Nikto, recon-ng, subzy, gobuster, dirb, dirbuster, gobuster, ffuf, netcat seclists, cupp, steghide, stegosuite, msfvenom, metasploit-framework hydra, hashcat, john, wifipumpkin3 wafw00f**
 
-I am a beginner in cybersecurity with a strong interest in understanding how systems, networks, and data are protected from cyber threats. I am currently building my foundation in cybersecurity concepts and improving my technical skills through continuous learning and practice.
+- 📫 How to reach me **bhavyasehgal2202@gmail.com**
 
-I enjoy exploring security tools, learning ethical hacking basics, and understanding how vulnerabilities work in real-world scenarios.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bhavyasehgall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavyasehgall" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 📘 What I'm Learning
-
-- Cybersecurity Fundamentals  
-- Networking (TCP/IP, OSI Model)  
-- Linux  
-- Ethical Hacking   
-- Vulnerability Awareness  
-- Security Best Practices  
-
----
-
-## 🧪 Practice & Labs
-
-- Hands-on labs from beginner-friendly platforms  
-- Basic / Intermediate security experiments in virtual environments  
-- Learning through Capture The Flag (CTF) style challenges  
-
----
-
-## 🧰 Tools & Technologies (Beginner)
-
-- Windows / Linux (Kali / Ubuntu)  
-- VirtualBox / VMware / Docker
-- zaproxy, wireshark, burpsuite 
-- subfinder, assetfinder, theHarvester, WhateWeb. 
-- Nmap, Nikto, recon-ng, subzy, gobuster, dirb, dirbuster, gobuster, ffuf, netcat
-- seclists, cupp, steghide, stegosuite, msfvenom, metasploit-framework
-- hydra, hashcat, john, wifipumpkin3
-- wafw00f
-
-   
----
-
-## 🎯 Goals
-
-- Build strong cybersecurity fundamentals  
-- Create beginner-friendly security projects  
-- Gain experience through internships or training programs  
-- Grow into an entry-level cybersecurity role  
-
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: *www.linkedin.com/in/bhavyasehgall*  
-- Email: *bhavyasehgal2202@gmail.com*
-
----
-
-⭐ *This profile will be updated as I continue learning cybersecurity.*
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyasehgall&show_icons=true&locale=en&layout=compact" alt="bhavyasehgall" /></p>
