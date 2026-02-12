@@ -1,20 +1,100 @@
-<h1 align="center">Hi 👋, I'm Bhavya Sehgal</h1>
-<h3 align="center">A Beginner in Cybersecurity</h3>
+<h1 align="center">Bhavya Sehgal</h1>
+<h3 align="center">Cybersecurity Enthusiast | Automation Developer | Linux Specialist</h3>
 
-- 🛡️ About Me **I am a beginner in cybersecurity with a strong interest in understanding how systems, networks, and data are protected from cyber threats. I am currently building my foundation in cybersecurity concepts and improving my technical skills through continuous learning and practice. I enjoy exploring security tools, learning ethical hacking basics, and understanding how vulnerabilities work in real-world scenarios.**
+---
 
-- 🌱 I’m currently learning **Cybersecurity Fundamentals Networking (TCP/IP, OSI Model) Linux Ethical Hacking Vulnerability Awareness Security Best Practices**
+## 👨‍💻 Professional Summary
 
-- 🧰 Tools & Technologies (Beginner) **Windows / Linux (Kali / Ubuntu) VirtualBox / VMware / Docker zaproxy, wireshark, burpsuite subfinder, assetfinder, theHarvester, WhateWeb. Nmap, Nikto, recon-ng, subzy, gobuster, dirb, dirbuster, gobuster, ffuf, netcat seclists, cupp, steghide, stegosuite, msfvenom, metasploit-framework hydra, hashcat, john, wifipumpkin3 wafw00f**
+Detail-oriented and security-focused developer with hands-on experience in Linux environments, Bash scripting, and reconnaissance automation. Passionate about building efficient tools and strengthening system security through structured testing and analysis.
 
-- 📫 How to reach me **bhavyasehgal2202@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bhavyasehgall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavyasehgall" height="30" width="40" /></a>
+## 🛠 Technical Skills
+
+**Languages & Scripting**
+- Bash
+- Python (Fundamentals & Security Automation)
+- Shell Scripting
+
+**Security & Networking Tools**
+- Nmap
+- Rustscan
+- Nikto
+- Gobuster
+- WhatWeb
+- Amass
+- Wireshark
+- zaproxy
+- burpsuite
+- subfinder
+- assetfinder
+- theHarvester
+- recon-ng
+- subzy
+- dirb
+- dirbuster
+- ffuf
+- netcat
+- seclists
+- cupp
+- steghide
+- stegosuite
+- msfvenom
+- metasploit-framework
+- hyra
+- hashcat
+- john
+- wifipumpkin3
+- wafw00f
+
+**Operating Systems**
+- Kali Linux
+- Ubuntu
+- Windows
+
+---
+
+## 📌 Key Projects
+
+### 🔹 Recon Automation Tool
+Automated reconnaissance framework integrating:
+- Target validation
+- Port scanning (Nmap & Rustscan)
+- Web vulnerability scanning (Nikto)
+- Directory enumeration
+- Structured report generation
+
+### 🔹 Linux & Bash Utilities
+- File & directory validation scripts
+- System automation tools
+- Input validation and error-handling scripts
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyasehgall&show_icons=true&hide_border=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavyasehgall&show_icons=true&locale=en&layout=compact" alt="bhavyasehgall" /></p>
+## 🎯 Career Objective
+
+Seeking opportunities in:
+- Cybersecurity
+- Security Operations (SOC)
+- Penetration Testing (Entry-Level)
+- Automation & DevSecOps
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/bhavyasehgall
+- Email: bhavyasehgal2202@gmail.com
+
+---
+
+*Committed to continuous learning, disciplined execution, and secure system design.*
+
