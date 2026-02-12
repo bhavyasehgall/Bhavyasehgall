@@ -16,6 +16,11 @@ Detail-oriented and security-focused developer with hands-on experience in Linux
 - Python (Fundamentals & Security Automation)
 - Shell Scripting
 
+**Operating Systems**
+- Kali Linux
+- Ubuntu
+- Windows
+  
 **Security & Networking Tools**
 - Nmap
 - Rustscan
@@ -47,11 +52,6 @@ Detail-oriented and security-focused developer with hands-on experience in Linux
 - wifipumpkin3
 - wafw00f
 
-**Operating Systems**
-- Kali Linux
-- Ubuntu
-- Windows
-
 ---
 
 ## 📌 Key Projects
@@ -71,13 +71,6 @@ Automated reconnaissance framework integrating:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavyasehgall&show_icons=true&hide_border=true" />
-</p>
-
----
 
 ## 🎯 Career Objective
 
