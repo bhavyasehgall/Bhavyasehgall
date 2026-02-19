@@ -56,6 +56,13 @@ Detail-oriented and security-focused developer with hands-on experience in Linux
 
 ## 📌 Key Projects
 
+### 🔹 AutomationTools
+Bash-based reconnaissance automation suite integrating:
+- Nmap scanning
+- Subdomain enumeration
+- Directory discovery
+- Workflow optimization for penetration testing
+
 ### 🔹 Recon Automation Tool
 Automated reconnaissance framework integrating:
 - Target validation
