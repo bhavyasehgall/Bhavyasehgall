@@ -1,100 +1,186 @@
-<h1 align="center">Bhavya Sehgal</h1>
-<h3 align="center">Cybersecurity Enthusiast | Automation Developer | Linux Specialist</h3>
+# 👋 Hi, I'm Bhavya Sehgal
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+%7C+VAPT+%7C+Automation;Linux+%7C+Bash+%7C+Security+Engineering;Building+Tools+%2C+Not+Just+Using+Them&center=true&width=500&height=45">
+</p>
+
+🔐 Cybersecurity | VAPT | Security Automation
+🎓 BCA Graduate | Hands-on Security Practitioner
 
 ---
 
-## 👨‍💻 Professional Summary
+## 🚀 About Me
 
-Detail-oriented and security-focused developer with hands-on experience in Linux environments, Bash scripting, and reconnaissance automation. Passionate about building efficient tools and strengthening system security through structured testing and analysis.
-
----
-
-## 🛠 Technical Skills
-
-**Languages & Scripting**
-- Bash
-- Python (Fundamentals & Security Automation)
-- Shell Scripting
-
-**Operating Systems**
-- Kali Linux
-- Ubuntu
-- Windows
-  
-**Security & Networking Tools**
-- Nmap
-- Rustscan
-- Nikto
-- Gobuster
-- WhatWeb
-- Amass
-- Wireshark
-- zaproxy
-- burpsuite
-- subfinder
-- assetfinder
-- theHarvester
-- recon-ng
-- subzy
-- dirb
-- dirbuster
-- ffuf
-- netcat
-- seclists
-- cupp
-- steghide
-- stegosuite
-- msfvenom
-- metasploit-framework
-- hyra
-- hashcat
-- john
-- wifipumpkin3
-- wafw00f
+* 🔍 Focused on **Vulnerability Assessment & Web Application Security**
+* ⚙️ Building **automation tools** for reconnaissance and pentesting workflows
+* 🧪 Completed **30+ labs (TryHackMe & PortSwigger)** with practical exploitation experience
+* 🐧 Strong in **Linux & Bash scripting** for security automation
 
 ---
 
-## 📌 Key Projects
+## 💡 What Sets Me Apart
+
+* ⚙️ I build **automation tools**, not just use them
+* 🧠 I follow a **structured VAPT methodology**
+* 🚀 I convert manual security tasks into **efficient, repeatable workflows**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔐 Cybersecurity & VAPT
+
+* Web Application Security (XSS, SQL Injection, Authentication Bypass)
+* Network Scanning & Enumeration
+* Vulnerability Assessment & Reporting
+* OWASP Top 10 Methodology
+
+### 🌐 Reconnaissance & Web Testing
+
+* Subdomain Enumeration (Amass, Subfinder, Assetfinder)
+* Directory & Content Discovery (Gobuster, FFUF, Dirb)
+* Web Vulnerability Scanning (Nikto, OWASP ZAP, WhatWeb)
+* OSINT & Target Profiling (theHarvester, recon-ng)
+
+### ⚙️ Security Tools
+
+* Nmap, Rustscan
+* Burp Suite, OWASP ZAP
+* Wireshark, Netcat
+* Metasploit Framework, SQLMap
+* Wafw00f, Subzy
+
+### 💻 Scripting & Automation
+
+* Bash (Automation, Recon Workflows, Tool Integration)
+* Python (Basic Scripting & Security Automation)
+
+### 🐧 Operating Systems & Environment
+
+* Kali Linux (Primary Security OS)
+* Ubuntu (General Linux Usage)
+* Windows
+
+### 🌐 Networking Fundamentals
+
+* TCP/IP, DNS, HTTP/HTTPS
+* Ports, Protocols, Firewalls
+* Packet Analysis & Traffic Inspection
+
+---
+
+## 🧠 TryHackMe Profile
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" alt="TryHackMe Badge">
+</p>
+
+* 🧪 Completed **30+ hands-on labs** covering real-world attack scenarios
+* 📊 Ranked in the **Top 20% globally**
+* 🔍 Practical experience in:
+
+  * Network Enumeration & Scanning
+  * Privilege Escalation
+  * Web Exploitation (XSS, SQL Injection)
+* ⚙️ Applied learning directly into **automation tools and scripts**
+
+---
+
+## 🛠️ Tools & Technologies (Visual)
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Metasploit-4EAA25?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FFUF-grey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Gobuster-grey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Amass-grey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux-grey?style=for-the-badge">
+</p>
+
+* 🔐 Used for **network scanning, exploitation, and vulnerability analysis**
+* 🌐 Applied in **reconnaissance and web application testing workflows**
+* ⚙️ Integrated into **custom automation tools for efficient assessments**
+
+---
+
+## 📂 Featured Projects
 
 ### 🔹 AutomationTools
-Bash-based reconnaissance automation suite integrating:
-- Nmap scanning
-- Subdomain enumeration
-- Directory discovery
-- Workflow optimization for penetration testing
 
-### 🔹 Recon Automation Tool
-Automated reconnaissance framework integrating:
-- Target validation
-- Port scanning (Nmap & Rustscan)
-- Web vulnerability scanning (Nikto)
-- Directory enumeration
-- Structured report generation
+Reconnaissance automation suite integrating multi-tool workflows
 
-### 🔹 Linux & Bash Utilities
-- File & directory validation scripts
-- System automation tools
-- Input validation and error-handling scripts
+* Automated subdomain discovery, scanning & enumeration
+* Structured output for faster vulnerability analysis
+  👉 https://github.com/bhavyasehgall/automationtools
 
 ---
 
+### 🔹 KaliToolkit
 
-## 🎯 Career Objective
+Penetration testing workflow automation for Kali Linux
 
-Seeking opportunities in:
-- Cybersecurity
-- Security Operations (SOC)
-- Penetration Testing (Entry-Level)
-- Automation & DevSecOps
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://linkedin.com/in/bhavyasehgall
-- Email: bhavyasehgal2202@gmail.com
+* Modular scripts to streamline assessments
+* Designed for efficiency during real-world engagements
+  👉 https://github.com/bhavyasehgall/kalitoolkit
 
 ---
 
-*Committed to continuous learning, disciplined execution, and secure system design.*
+### 🔹 BhavyaSecTools
 
+Custom security utilities for web testing & enumeration
+
+* Lightweight tools for identifying XSS & SQLi
+* Focused on practical, real-world usage
+  👉 https://github.com/bhavyasehgall/BhavyaSecTools
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyasehgall&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavyasehgall&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavyasehgall&theme=tokyo-night" />
+</p>
+
+---
+
+## 📊 Practical Exposure
+
+* 🧠 **TryHackMe:** Top 20% | 30+ labs completed
+* 🌐 **PortSwigger Web Security Academy:** XSS, SQLi, Auth flaws
+* ☁️ **AWS:** Basic cloud & security concepts
+
+---
+
+## 🎯 Career Focus
+
+* Cybersecurity Analyst
+* SOC Analyst
+* Penetration Tester (Entry-Level)
+* Security Automation / DevSecOps
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/bhavyasehgall">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+⭐ *Focused on building, automating, and securing systems — not just using tools.*
