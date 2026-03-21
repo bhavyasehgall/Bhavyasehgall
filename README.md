@@ -71,14 +71,21 @@
 
 ## 🧠 TryHackMe Profile
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/bhavyasehgall.png?update=1)](https://tryhackme.com/p/bhavyasehgall)
+<p align="center">
+  <a href="https://tryhackme.com/p/bhavyasehgall">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme">
+  </a>
+</p>
 
-- 🧪 Completed **30+ hands-on labs**  
-- 📊 Ranked in the **Top 20% globally**  
-- 🔍 Practical experience in:
-  - Network Enumeration  
-  - Privilege Escalation  
-  - Web Exploitation (XSS, SQL Injection)  
+* 🧪 Completed **30+ hands-on labs** covering real-world attack scenarios
+* 📊 Ranked in the **Top 20% globally**
+* 🔍 Practical experience in:
+
+  * Network Enumeration & Scanning
+  * Privilege Escalation
+  * Web Exploitation (XSS, SQL Injection)
+* ⚙️ Applied learning into **automation tools and scripts**
+
 
 ## 🛠️ Tools & Technologies (Visual)
 
