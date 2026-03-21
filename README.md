@@ -71,13 +71,7 @@
 
 ## 🧠 TryHackMe Profile
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/bhavyasehgall.png?update=1" />
-</p>
-
-<p align="center">
-  <a href="https://tryhackme.com/p/bhavyasehgall">View Profile</a>
-</p>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/bhavyasehgall.png?update=1)](https://tryhackme.com/p/bhavyasehgall)
 
 - 🧪 Completed **30+ hands-on labs**  
 - 📊 Ranked in the **Top 20% globally**  
@@ -85,7 +79,6 @@
   - Network Enumeration  
   - Privilege Escalation  
   - Web Exploitation (XSS, SQL Injection)  
-- ⚙️ Applied learning into **real automation tools**
 
 ## 🛠️ Tools & Technologies (Visual)
 
